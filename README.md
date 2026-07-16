@@ -177,7 +177,7 @@ git push origin feature-name
 **Shubham Goel**
 
 - GitHub: https://github.com/sglegend786
-- LinkedIn: https://www.linkedin.com/in/shubham-goel786/
+- LinkedIn:https://www.linkedin.com/in/shubham-goel-5832a828a/
 
 ---
 
